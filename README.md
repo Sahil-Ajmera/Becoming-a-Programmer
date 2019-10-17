@@ -19,7 +19,7 @@
     - Add some description if any for your code
     - Browse down and select the option "Create a new branch for this commit and start a pull request."
     - Create this pull request with name Week1 and then add me as reviewer
-    - Done! Wait for me to review what you have done . If I leave a comment work on it otherwise we move to Week 2
+    - Done! Wait for me to review what you have done . If I leave a comment work on it( You will recieve an email that I have left a comment or if it has been approved) otherwise we move to Week 2
 
 
 ## Resources
