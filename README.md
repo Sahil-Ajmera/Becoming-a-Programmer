@@ -15,7 +15,7 @@
     - Create a repository . Can name it "programming"
     - Create a folder "Week1"
     - Add me as a collaborator to your repo( Sahil-Ajmera  when asked for username )
-    - Add Hello World Java code file to this Week1 along with screenshots(About various installations done as well) **WAIT**
+    - Add Hello World Java code file to this Week1 **WAIT**
     - Add some description if any for your code
     - Browse down and select the option "Create a new branch for this commit and start a pull request."
     - Create this pull request with name Week1 and then add me as reviewer
