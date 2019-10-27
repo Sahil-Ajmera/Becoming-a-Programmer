@@ -24,10 +24,18 @@
 
 ## Resources
 
+- General
+    - https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA 
+    - https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w
+    - https://www.youtube.com/user/tusharroy2525
+    - https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA
+    - Books in /books folder
+    
+
 - Week 1
     - Java Installation https://www.youtube.com/watch?v=_YmuR4aw9pM
     - About Github (Good series to learn about Git and Github) https://www.youtube.com/watch?v=BCQHnlnPusY 
     - Adding Collaborators to Github repo ( https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository )
     - Adding reviewer https://help.github.com/en/articles/requesting-a-pull-request-review
-    - Use Youtube or google search for other things
-    - Java book in books folder for reference
+
+
