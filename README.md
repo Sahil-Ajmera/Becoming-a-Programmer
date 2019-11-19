@@ -29,7 +29,9 @@
     - https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w
     - https://www.youtube.com/user/tusharroy2525
     - https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA
+    - http://tutorials.jenkov.com/ For understanding basic of threds.
     - Books in /books folder
+    
     
 
 - Week 1
