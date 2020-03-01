@@ -25,7 +25,8 @@
 
 - Things to know from task 1 and task 2
     - In computer science we have two types of languages, a **high-level** language and a **low-level** language. Machines only     understand 0s and 1s. In fact, your mouse clicks and execution of programs actually goes in as 0s and 1s which are then executed by the machine. Low level languages map very closely this code. Example - Assembly language and Machine Language. High-level languages provide a extra layer of abstraction but provide the same functionality. High level languages like Java, Python, C, C++  .. . . and so on. See https://youtu.be/bUWCD45qniA. <img src="Images/assembly-code.png" width="324" height="324"><img src="Images/Machine-code.jpg" width="324" height="324">
-    - Java is one of the early **high-level** languages in computer science. It is considered as a fully **Object-oriented** programming language, meaning you have "classes (or templates)" and "objects(or instances)" of those classes. See this example for a sample class and their object and using this object. <img src="Images/java-code-execution.png" width="324" height="324"><img src="Images/Sample-Java-Class.png" width="324" height="324">
+    - Java is one of the early **high-level** languages in computer science. It is considered as a fully **Object-oriented** programming language, meaning you have "classes (or templates)" and "objects(or instances)" of those classes. See this example for a sample class and their object and using this object. 
+    - <img src="Images/java-code-execution.png" width="324" height="324"><img src="Images/Sample-Java-Class.png" width="324" height="324">
     - Sublime is a very fast text editor preferred for Windows platforms. It has plugins to code various programming languages. 
     - IDEA is to manage your complex projects involving several java files. You may be interacting with different classes and IntelliJ provides a good interface with extra functionality to manage your classes efficiently.
     - Understanding your program 
@@ -50,6 +51,10 @@
         - Print your name there. Define a variable in the other function.
         - Send two numbers and add them in the other function and print the result.                             
     - Complete the Java programming course - https://www.codecademy.com/learn/learn-java
+    - Complete the following coding problems and post the answer on Github. 
+      - Write a function that checks whether an element occurs in a list.
+      - Write a function that returns the largest element in a list.
+      - Write a program that prints if a number is even and prints if it is odd.
 
 
 ## Resources
@@ -72,3 +77,4 @@
 - Week 2
     - C and C++ are closer to low level languages as they allow a good level of memory management. However, with human errors this memory management if not done properly can lead to memory exhaustion. Also, C and C++ use concepts like 'pointers' which point to actual locations of objects in memory. This can lead to security issues as we are now trying to interact with the underlying hardware. Java on the other hand allows for automatic memory management for the most part and does not allow pointers. 
     - See https://youtu.be/QXjU9qTsYCc.
+    - https://www.geeksforgeeks.org/school-programming/
