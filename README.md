@@ -69,3 +69,6 @@
     - About Github (Good series to learn about Git and Github) https://www.youtube.com/watch?v=BCQHnlnPusY 
     - Adding Collaborators to Github repo ( https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository )
     - Adding reviewer https://help.github.com/en/articles/requesting-a-pull-request-review
+- Week 2
+    - C and C++ are closer to low level languages as they allow a good level of memory management. However, with human errors this memory management if not done properly can lead to memory exhaustion. Also, C and C++ use concepts like 'pointers' which point to actual locations of objects in memory. This can lead to security issues as we are now trying to interact with the underlying hardware. Java on the other hand allows for automatic memory management for the most part and does not allow pointers. 
+    - See https://youtu.be/QXjU9qTsYCc.
