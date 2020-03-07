@@ -15,7 +15,7 @@
 - Basic Linux 
 - Basic Bash scripting 
 - Basics of Database performance optimization
-- Basic Git
+- Basic Git - Pull, Commit, Add, Push, Adding Reviewers, Rebase, Using Wiki, Tracking projects, Using Issues section, Diffs
 - Basic use of IntelliJ, Pycharm, Sublime, Vim
 
 ## Week1
