@@ -1,5 +1,21 @@
 # Beginners Course
 
+## What we are trying to cover
+- Basic Java & Python lanaguage programming
+- Data Structures
+- Algorithms
+- Competitive Programming
+- Basics of Databases - SQL and NoSQL
+- Basic Web development with HTML, CSS, Basic JavaScript, Materialize and Server Side Scripting with Java and Python
+- Basic Android Development with Java
+- Basic Networking Concepts
+- Basic Virtualization Concepts
+- Basic of Search Engines
+- Basic Machine Learning and Big Data Analytics
+- Basic Linux 
+- Basic Bash scripting 
+- Basics of Database performance optimization
+
 ## Week1
 
 - Installation
