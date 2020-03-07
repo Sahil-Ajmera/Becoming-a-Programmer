@@ -18,6 +18,8 @@
 - Basic Git - Pull, Commit, Add, Push, Adding Reviewers, Rebase, Using Wiki, Tracking projects, Using Issues section, Diffs
 - Basic use of IntelliJ, Pycharm, Sublime, Vim
 - Basics of Cybersecurity ( Lets Hack! lol)
+- Resume building
+- Projects
 
 ## Week1
 
