@@ -15,6 +15,8 @@
 - Basic Linux 
 - Basic Bash scripting 
 - Basics of Database performance optimization
+- Basic Git
+- Basic use of IntelliJ, Pycharm, Sublime, Vim
 
 ## Week1
 
