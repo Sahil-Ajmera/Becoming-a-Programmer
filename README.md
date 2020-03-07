@@ -82,9 +82,6 @@
     - https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA
     - http://tutorials.jenkov.com/ For understanding basic of threds.
     - Books in /books folder
-    
-    
-
 - Week 1
     - Java Installation https://www.youtu.be/bll48gbFiEc
     - About Github (Good series to learn about Git and Github) https://www.youtube.com/watch?v=BCQHnlnPusY 
