@@ -17,6 +17,7 @@
 - Basics of Database performance optimization
 - Basic Git - Pull, Commit, Add, Push, Adding Reviewers, Rebase, Using Wiki, Tracking projects, Using Issues section, Diffs
 - Basic use of IntelliJ, Pycharm, Sublime, Vim
+- Basics of Cybersecurity ( Lets Hack! lol)
 
 ## Week1
 
